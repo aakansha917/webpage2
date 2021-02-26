@@ -1,0 +1,180 @@
+    * {
+        margin: 0px;
+        padding: 2px;
+    }
+    
+    nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: right;
+        background: rgb(189, 245, 245);
+    }
+    
+    .nav li {
+        display: inline-block;
+        font-size: 25px;
+        padding: 10px;
+    }
+    
+    .boot {
+        text-align: left;
+        font-size: 30px;
+        padding-top: 25px;
+    }
+    
+    .section {
+        text-align: center;
+        font-size: 25px;
+        background: rgb(127, 157, 211);
+        padding: 10px;
+        margin: 5px;
+    }
+    
+    .section input {
+        background-color: rgb(36, 202, 100);
+        color: white;
+        text-align: center;
+        width: 200px;
+        height: 30px;
+        font-size: 15px;
+        border: none;
+    }
+    
+    .logo {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .log {
+        width: 50px;
+        height: 50px;
+    }
+    
+    span {
+        color: rgb(59, 149, 223);
+    }
+    
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        display: grid;
+        justify-content: center;
+    }
+    
+    .cart {
+        background-color: rgb(14, 235, 14);
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 2px;
+        cursor: pointer;
+    }
+    
+    h1 {
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+    }
+    
+    .btns {
+        background-color: rgb(17, 131, 238);
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 2px;
+        cursor: pointer;
+    }
+    
+    .img {
+        display: block;
+        width: 100px;
+        height: 100px;
+        border: none;
+        border-radius: 3px;
+        padding: 10px;
+        margin: 0;
+    }
+    
+    .form {
+        text-align: center;
+        background: rgb(168, 216, 235);
+        border-radius: 3px;
+        box-shadow: 5px 5px 5px 5px rgb(167, 206, 228);
+        margin: 3px;
+        padding: 10px;
+        font-size: 15px;
+        border: none;
+    }
+    
+    .form p {
+        font-size: 25px;
+    }
+    
+    #sb {
+        color: rgb(38, 150, 241);
+        border: none;
+    }
+    
+    .form,
+    h1 {
+        color: blue;
+    }
+    
+    #sub-btn {
+        background: #00f;
+        color: #fff;
+        width: 150px;
+        height: 10px;
+        padding: 10px;
+        border-radius: 3px;
+        font-size: 20px;
+        text-align: center;
+        border: none;
+        cursor: pointer;
+    }
+    
+    #email {
+        width: 450px;
+        height: 30px;
+        margin: 0px;
+        padding: 8px;
+        border-radius: 5px;
+        font-size: 15px;
+        border: none;
+        text-align: left;
+    }
+    
+    .footer {
+        display: flex;
+        padding: 2px;
+        margin: 2px;
+        text-align: justify;
+        font-size: 20px;
+    }
+    
+    .comp {
+        list-style: none;
+        padding: 0;
+        margin: 5px;
+        font-size: 20px;
+    }
+    
+    .icons {
+        color: rgb(81, 81, 230);
+        padding: 15px;
+        width: 400px;
+        height: 20px;
+    }
+    
+    h5 {
+        font-weight: bold;
+    }
